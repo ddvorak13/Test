@@ -216,3 +216,4 @@ pip-log.txt
 
 #DD 1/17/2014
 *.config
+*.example
