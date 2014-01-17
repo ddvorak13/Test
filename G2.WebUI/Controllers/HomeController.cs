@@ -10,7 +10,7 @@ namespace G2.WebUI.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Hello from the dev branch!";
+            ViewBag.Message = "JUST ADDED FEATURE1";
 
             return View();
         }
